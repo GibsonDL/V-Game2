@@ -1,0 +1,16 @@
+C:\Users\glumi\RiderProjects\V-Game2\src\camera.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\camera.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\imgui\imgui.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\imgui.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\imgui\imgui_demo.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\imgui_demo.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\imgui\imgui_draw.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\imgui_draw.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\imgui\imgui_impl_sdl2.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\imgui_impl_sdl2.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\imgui\imgui_impl_vulkan.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\imgui_impl_vulkan.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\imgui\imgui_tables.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\imgui_tables.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\imgui\imgui_widgets.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\imgui_widgets.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\main.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\main.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\VkBootstrap.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\VkBootstrap.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\vk_descriptors.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\vk_descriptors.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\vk_engine.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\vk_engine.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\vk_images.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\vk_images.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\vk_initializers.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\vk_initializers.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\vk_loader.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\vk_loader.obj
+C:\Users\glumi\RiderProjects\V-Game2\src\vk_pipelines.cpp;C:\Users\glumi\RiderProjects\V-Game2\V-Game2\x64\Debug\vk_pipelines.obj

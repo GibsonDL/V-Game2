@@ -1,11 +1,12 @@
 #include "vk_engine.h"
 #include "vk_images.h"
+#include "imgui/imgui.h"
 
 #define VMA_IMPLEMENTATION
 #include "vk_mem_alloc.h"
 #include "vk_initializers.h"
 
-#include <SDL2//SDL.h>
+#include <SDL2/SDL.h>
 #include <SDL2/SDL_vulkan.h>
 #include "VkBootstrap.h"
 
@@ -24,6 +25,9 @@ VulkanEngine* loadedEngine = nullptr;
 //VulkanEngine& Get() { return *loadedEngine; }
 
 
+void VulkanEngine::immediate_submit(std::function<void(VkCommandBuffer cmd)>&& function)
+{
+}
 
 void VulkanEngine::init()
 {
@@ -211,6 +215,10 @@ void VulkanEngine::init_sync_structures()
     }
     
     
+}
+
+void VulkanEngine::init_imgui()
+{
 }
 
 void VulkanEngine::init_descriptors()

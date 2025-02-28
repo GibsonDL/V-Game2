@@ -88,7 +88,9 @@ public:
     VkFence _immFence;
     VkCommandBuffer _immCommandBuffer;
     VkCommandPool _immCommandPool;
-
+    
+    void immediate_submit(std::function<void(VkCommandBuffer cmd)>&& function);
+    
     //draw resources
     AllocatedImage _drawImage;
 
@@ -129,5 +131,8 @@ private:
 
     void init_sync_structures();
 
-    //void init_imgui();
+    void init_imgui();
+    void draw_imgui(VkCommandBuffer cmd, VkImageView targetImageView);
+
+  
 };

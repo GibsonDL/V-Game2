@@ -14,6 +14,11 @@ VkCommandBufferAllocateInfo command_buffer_allocate_info(VkCommandPool pool, uin
 VkCommandBufferBeginInfo command_buffer_begin_info(VkCommandBufferUsageFlags flags = 0);
 VkCommandBufferSubmitInfo command_buffer_submit_info(VkCommandBuffer cmd);
 
+
+   
+
+
+    
 VkFenceCreateInfo fence_create_info(VkFenceCreateFlags flags = 0);
 
 VkSemaphoreCreateInfo semaphore_create_info(VkSemaphoreCreateFlags flags = 0);
